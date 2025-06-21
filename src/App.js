@@ -7,7 +7,7 @@ import InPost from './components/InPost';
 function App() {
   return (
     <Router>
-      <div style={{          //-- 퍼지지 않도록, 비율 고정
+      <div style={{         //-- 퍼지지 않도록, 인스타 비율 고정
         maxWidth: '600px',  
         margin: '0 auto',  
         minHeight: '100vh',  
